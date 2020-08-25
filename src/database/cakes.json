@@ -1,0 +1,37 @@
+[
+  {
+    "id": "c1",
+    "name": "Cake1",
+    "price": 10,
+    "size": 1,
+    "img": "https://cdn.pixabay.com/photo/2014/04/03/00/40/cake-309034_960_720.png"
+  },
+  {
+    "id": "c2",
+    "name": "Cake2",
+    "price": 20,
+    "size": 2,
+    "img": "https://cdn.pixabay.com/photo/2014/04/03/00/40/cake-309034_960_720.png"
+  },
+  {
+    "id": "c3",
+    "name": "Cake3",
+    "price": 30,
+    "size": 3,
+    "img": "https://cdn.pixabay.com/photo/2014/04/03/00/40/cake-309034_960_720.png"
+  },
+  {
+    "id": "c4",
+    "name": "Cake4",
+    "price": 40,
+    "size": 4,
+    "img": "https://cdn.pixabay.com/photo/2014/04/03/00/40/cake-309034_960_720.png"
+  },
+  {
+    "id": "c5",
+    "name": "Cake5",
+    "price": 50,
+    "size": 5,
+    "img": "https://cdn.pixabay.com/photo/2014/04/03/00/40/cake-309034_960_720.png"
+  }
+]

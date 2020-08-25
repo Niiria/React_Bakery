@@ -1,0 +1,30 @@
+[
+  {
+    "id": "b1",
+    "name": "Bread1",
+    "price": 10,
+    "size": 1,
+    "img": "https://cdn.pixabay.com/photo/2012/04/03/14/51/bread-25206_960_720.png"
+  },
+  {
+    "id": "b2",
+    "name": "Bread2",
+    "price": 20,
+    "size": 2,
+    "img": "https://cdn.pixabay.com/photo/2012/04/03/14/51/bread-25206_960_720.png"
+  },
+  {
+    "id": "b3",
+    "name": "Bread3",
+    "price": 30,
+    "size": 3,
+    "img": "https://cdn.pixabay.com/photo/2012/04/03/14/51/bread-25206_960_720.png"
+  },
+  {
+    "id": "b4",
+    "name": "Bread4",
+    "price": 40,
+    "size": 4,
+    "img": "https://cdn.pixabay.com/photo/2012/04/03/14/51/bread-25206_960_720.png"
+  }
+]
