@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.scss';
-import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import {  Switch, Route, HashRouter } from 'react-router-dom';
 
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
@@ -9,14 +9,14 @@ import Products from './components/products/Products';
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Navbar />
       <Switch>
         <Route exact path="/" component={About} />
         <Route path="/products" component={Products} />
       </Switch>
       <Footer />
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
